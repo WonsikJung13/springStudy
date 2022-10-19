@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="w3schools@ec2-52-78-183-190.ap-northeast-2.compute.amazonaws.com" uuid="4b2c78aa-d405-4812-9d4e-81d75be19134">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://ec2-52-78-183-190.ap-northeast-2.compute.amazonaws.com:3306/w3schools</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
