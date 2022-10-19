@@ -52,6 +52,10 @@ dependencies {
     // https://mvnrepository.com/artifact/javax.servlet/jstl
     implementation 'javax.servlet:jstl:1.2'
 
+    implementation 'org.mariadb.jdbc:mariadb-java-client:3.0.8'
+
+    // https://mvnrepository.com/artifact/com.zaxxer/HikariCP
+    implementation 'com.zaxxer:HikariCP:5.0.1'
 
 }
 
